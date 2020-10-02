@@ -2,6 +2,9 @@
 
 TcpClient::TcpClient(QWidget *parent)
     : QMainWindow(parent)
-{
+{ 
     ui.setupUi(this);
 }
+
+
+//xxx
